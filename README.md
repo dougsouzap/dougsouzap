@@ -1,5 +1,5 @@
 <img align="right" height="400em" src="https://user-images.githubusercontent.com/62728192/138982256-8c469d53-00db-43e0-a44e-fd98458a0653.png"/>
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Douglas Souza</h1>
+<h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Me chamo Douglas Souza</h1>
 
 - 🚀 Estudo Desenvolvimento Web através da plataforma da Rocketseat
 - ✨ Tenho 25 anos de idade
