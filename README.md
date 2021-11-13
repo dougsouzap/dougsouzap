@@ -41,9 +41,7 @@
 <a href="https://instagram.com/_thedoug" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-_thedoug-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://facebook.com/douglassouza07" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-douglassouza07-05122A?style=flat&logo=facebook" alt="facebook"/>
-</a>
+
   
 </p>
 
