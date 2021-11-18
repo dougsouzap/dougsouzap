@@ -1,6 +1,7 @@
 <img align="right" height="400em" src="https://user-images.githubusercontent.com/62728192/138982256-8c469d53-00db-43e0-a44e-fd98458a0653.png"/>
 <h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Me chamo Douglas Souza</h1>
 
+
 - 🚀 Estudo Desenvolvimento Web através da plataforma da Rocketseat
 - ✨ Tenho 25 anos de idade
 - 📍&nbsp;&nbsp; Moro em Guarulhos - SP
@@ -23,8 +24,13 @@
 ## 🛠 &nbsp;Estudos Para o Futuro
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![VueJs](https://img.shields.io/badge/-VueJs-05122A?style=flat&logo=vue.js)&nbsp;
+![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=node.js)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+
+
+
 
 <br><br>
 
@@ -44,6 +50,15 @@
 
   
 </p>
-
-
+<br>
 <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=__akzo&layout=wide&show_reply=off&show_retweet=off" />
+
+<br><br><br>
+##
+<br>
+<div align="center">
+  <a href="https://github.com/dougsouzap">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dougsouzap&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougsouzap&layout=compact&langs_count=7&theme=omni"/>
+</div>
+<br><br>
