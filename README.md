@@ -3,8 +3,8 @@
 
 
 - 🚀 Estudo Desenvolvimento Web através da plataforma da Rocketseat
-- ✨ Tenho 25 anos de idade
-- 📍&nbsp;&nbsp; Moro em Guarulhos - SP
+- ✨ Tenho 26 anos de idade
+- 📍&nbsp;&nbsp;Moro em Guarulhos - SP
 - 🔭 Atualmente sou Almoxarife Jr.
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Convivo com 8 GATOS 
